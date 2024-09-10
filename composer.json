@@ -1,0 +1,16 @@
+{
+    "name": "aufccs/ipt10-lab6",
+    "description": "A simple PHP project using Composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Angeliko Yumul"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.7",
+        "fakerphp/faker": "^1.23"
+    }
+}
